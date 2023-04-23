@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159422528150",
+    "project_id": "tutu-store-9099f",
+    "storage_bucket": "tutu-store-9099f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159422528150:android:63502df206e15957fce0b7",
+        "android_client_info": {
+          "package_name": "com.example.youtube_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159422528150-fd7g01v9mb9f076ssft0jrcp1rpmemti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEy7oq0yoO7r0t0tN7Y7Az98Z6e6M-nws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159422528150-fd7g01v9mb9f076ssft0jrcp1rpmemti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159422528150-uv9l5snrgpefvflb7n279sd4jt4oqevs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.youtubeEcommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

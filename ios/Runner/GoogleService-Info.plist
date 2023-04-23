@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>159422528150-uv9l5snrgpefvflb7n279sd4jt4oqevs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159422528150-uv9l5snrgpefvflb7n279sd4jt4oqevs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwpqTCssmtkWcDrYNIoNO8au9TeIq_u7c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159422528150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.youtubeEcommerce</string>
+	<key>PROJECT_ID</key>
+	<string>tutu-store-9099f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tutu-store-9099f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159422528150:ios:e2fdb89061d461f6fce0b7</string>
+</dict>
+</plist>
