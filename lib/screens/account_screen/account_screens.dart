@@ -8,7 +8,7 @@ import 'package:youtube_ecommerce/screens/edit_profile/edit_profile.dart';
 import 'package:youtube_ecommerce/screens/favourite_screen/favourite_screen.dart';
 import 'package:youtube_ecommerce/screens/order_screen/order_screen.dart';
 import 'package:youtube_ecommerce/widgets/primary_button/primary_button.dart';
-
+import 'package:youtube_ecommerce/screens/auth_ui/login/login.dart';
 import '../../provider/app_provider.dart';
 
 class AccountScreen extends StatefulWidget {
@@ -115,7 +115,7 @@ class _AccountScreenState extends State<AccountScreen> {
                 ListTile(
                   onTap: () {
                     FirebaseAuthHelper.instance.signOut();
-
+                    Routes.instance.push(widget: const Login(), context: context);
                     setState(() {});
                   },
                   leading: const Icon(Icons.exit_to_app),
